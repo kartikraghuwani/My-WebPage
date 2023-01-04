@@ -77,7 +77,7 @@ ul {
 /* top banner */
 
 .top-banner {
-    background-image: url('images/assets/asset\ 32.png');
+    background-image: url('asset\ 32.png');
     background-color: #e74694;
     background-size: 300px;
 }
@@ -184,7 +184,7 @@ header {
 .features-section {
     padding: 80px var(--padding-inline-section) 0;
     justify-content: center;
-    background-image: url(images/assets/asset\ 34.svg);
+    background-image: url(asset\ 34.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -260,23 +260,23 @@ header {
     position: relative;
     min-height: 300px;
     background: black;
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(images/assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(asset\ 36.jpeg);
     background-size: cover;
     transition: 0.2s ease-out;
 }
 
 .example-area :nth-child(2) {
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(images/assets/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(asset\ 37.jpeg);
     background-size: cover;
 }
 
 .example-area :nth-child(3) {
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(images/assets/asset\ 38.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(asset\ 38.jpeg);
     background-size: cover;
 }
 
 .example-area :nth-child(4) {
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(images/assets/asset\ 39.jpeg);    
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)), url(asset\ 39.jpeg);    
     background-size: cover;
 }
 
